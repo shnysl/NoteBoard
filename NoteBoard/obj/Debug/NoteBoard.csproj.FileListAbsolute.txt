@@ -1,0 +1,55 @@
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\NoteBoard.exe.config
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\NoteBoard.exe
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\NoteBoard.pdb
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\EntityFramework.dll
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\EntityFramework.xml
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form1.resources
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Properties.Resources.resources
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.CopyComplete
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.exe
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.pdb
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form2.resources
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form3.resources
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form4.resources
+C:\Users\sahin\source\repos\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form5.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\NoteBoard.exe.config
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\NoteBoard.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\NoteBoard.pdb
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.dll
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.xml
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form1.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form2.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form3.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form4.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form5.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Properties.Resources.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.GenerateResource.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.pdb
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\NoteBoard.exe.config
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\NoteBoard.exe
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\NoteBoard.pdb
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.dll
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.xml
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csprojAssemblyReference.cache
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form1.resources
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form2.resources
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form3.resources
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form4.resources
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Form5.resources
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.Properties.Resources.resources
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.GenerateResource.cache
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.CoreCompileInputs.cache
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.csproj.CopyComplete
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.exe
+E:\C# Kursu\PROJELER\NoteBoard\NoteBoard\NoteBoard\obj\Debug\NoteBoard.pdb
